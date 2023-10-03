@@ -1,5 +1,8 @@
 {
   "expo": {
+    "experiments": {
+      "tsconfigPaths": true
+    },
     "name": "stargrave-companion",
     "slug": "stargrave-companion",
     "version": "1.0.0",
